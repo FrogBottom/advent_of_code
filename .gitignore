@@ -1,4 +1,5 @@
 *.pdb
+**/input.txt
 
 # Prerequisites
 *.d
